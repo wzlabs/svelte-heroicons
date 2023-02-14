@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. <br>Available as basic SVG icons and via first-party <a href="#svelte">Svelte</a>, <a href="#react">React</a> and <a href="#vue">Vue</a> libraries.
+  Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. <br>Available as basic SVG icons and via first-party <a href="#svelte">Svelte</a>, <a href="https://github.com/tailwindlabs/heroicons#react">React</a> and <a href="https://github.com/tailwindlabs/heroicons#vue">Vue</a> libraries.
 <p>
 
 <p align="center">
@@ -66,67 +66,6 @@ Icons use an upper camel case naming convention and are always suffixed with the
 
 [Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@wzlabs-heroicons/svelte/24/outline/)
 
-
-## React
-
-First, install `@wzlabs-heroicons/react` from npm:
-
-```sh
-npm install @wzlabs-heroicons/react
-```
-
-Now each icon can be imported individually as a React component:
-
-```js
-import { BeakerIcon } from '@wzlabs-heroicons/react/24/solid'
-
-function MyComponent() {
-  return (
-    <div>
-      <BeakerIcon className="h-6 w-6 text-blue-500"/>
-      <p>...</p>
-    </div>
-  )
-}
-```
-
-The 24x24 outline icons can be imported from `@wzlabs-heroicons/react/24/outline`, the 24x24 solid icons can be imported from `@wzlabs-heroicons/react/24/solid`, and the 20x20 solid icons can be imported from `@wzlabs-heroicons/react/20/solid`.
-
-Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
-
-[Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@heroicons/react/24/outline/)
-
-
-## Vue
-
-*Note that this library currently only supports Vue 3.*
-
-First, install `@wzlabs-heroicons/vue` from npm:
-
-```sh
-npm install @wzlabs-heroicons/vue
-```
-
-Now each icon can be imported individually as a Vue component:
-
-```vue
-<template>
-  <div>
-    <BeakerIcon class="h-6 w-6 text-blue-500"/>
-    <p>...</p>
-  </div>
-</template>
-
-<script setup>
-import { BeakerIcon } from '@wzlabs-heroicons/vue/24/solid'
-</script>
-```
-
-The 24x24 outline icons can be imported from `@wzlabs-heroicons/vue/24/outline`, the 24x24 solid icons can be imported from `@wzlabs-heroicons/vue/24/solid`, and the 20x20 solid icons can be imported from `@wzlabs-heroicons/vue/20/solid`.
-
-Icons use an upper camel case naming convention and are always suffixed with the word `Icon`.
-
-[Browse the full list of icon names on UNPKG &rarr;](https://unpkg.com/browse/@wzlabs-heroicons/vue/24/outline/)
 
 ## License
 
