@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. <br>Available as basic SVG icons and via first-party <a href="#svelte">Svelte</a>, <a href="https://github.com/tailwindlabs/heroicons#react">React</a> and <a href="https://github.com/tailwindlabs/heroicons#vue">Vue</a> libraries.
+  Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS. <br>Available as basic SVG icons and via first-party <a href="#svelte">Svelte</a>, <a href="https://github.com/tailwindlabs/heroicons#react" target="_blank">React</a> and <a href="https://github.com/tailwindlabs/heroicons#vue" target="_blank">Vue</a> libraries.
 <p>
 
 <p align="center">
